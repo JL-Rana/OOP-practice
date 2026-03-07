@@ -10,3 +10,7 @@ This repository contains Java programs for practicing core Object-Oriented Progr
 - Inheritance
 - Polymorphism
 - Abstraction
+
+## Resources
+- [OOP Principles - GeeksforGeeks](https://www.geeksforgeeks.org/java/object-oriented-programming-oops-concept-in-java/)
+- [github/Fazle-Rakib sir](https://github.com/Fazle-Rakib/oop-concepts-with-java)
