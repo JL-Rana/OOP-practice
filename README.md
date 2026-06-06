@@ -4,11 +4,11 @@ This repository contains Java programs for practicing core Object-Oriented Progr
 
 ## Topic Covered 
 - Basic-Java (Array, loop, Switch-case, calculator)
+- Inheritance
+- Polymorphism
 
 ## Topics will be Covered
 - Encapsulation
-- Inheritance
-- Polymorphism
 - Abstraction
 
 ## Resources
